@@ -1,0 +1,7 @@
+.output/*
+proc_image
+test/test_proc
+controller
+
+tools/.output/*
+tools/*_image
