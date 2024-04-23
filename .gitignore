@@ -5,3 +5,6 @@ controller
 
 tools/.output/*
 tools/*_image
+
+eBPF_prometheus/data-visual
+eBPF_prometheus/.output/*
